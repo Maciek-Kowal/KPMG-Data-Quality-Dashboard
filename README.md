@@ -35,12 +35,19 @@ Zbudowano w pełni interaktywny panel menedżerski oparty na Wykresach Przestawn
 
 ### Zrzuty ekranu z projektu
 
-**1. Widok Głównego Dashboardu** *(Gotowy, interaktywny panel analityczny)*
+**1. Widok Głównego Dashboardu** 
+*(Gotowy, interaktywny panel analityczny)*
+
 ![Dashboard Główny](Images/dashboard.png)
 
-**2. Proces ETL i Model Danych (Power Query)** *(Zastosowane kroki transformacji danych oraz wizualizacja scalania tabel w modelu relacyjnym)*
+---
+
+**2. Proces ETL i Model Danych (Power Query)** 
+*(Zastosowane kroki transformacji danych oraz wizualizacja scalania tabel w modelu relacyjnym)*
+
 ![Zastosowane kroki ETL](Images/Kroki.png)
-![Proces scalania tabel](Images/Scalanie.png)
+
+![Proces scalania tabel](Images/Scalenie.png)
 
 ---
 
